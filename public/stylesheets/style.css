@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: darkgray !important;
+}
+
+a {
+  color: #00B7FF;
+}
+
+form#login-form .form-group {
+  width: 30%;
+  margin: 0 auto;
+  text-align: center;
+  background: white;
+  padding: 1em;
+  border-radius: 4px;
+}
+
+form#login-form input {
+  margin: 15px 0;
+}
